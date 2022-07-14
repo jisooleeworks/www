@@ -31,7 +31,6 @@ h3 {
 a {
     color: #602bbb;
     text-decoration: none;
-    display: block;
 }
 
 .container{
@@ -69,7 +68,7 @@ a {
 }
 
 .contact{
-    margin-top: 2rem;
+    margin-top: 1rem;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -91,7 +90,7 @@ img.photo{
 }
 
 .footer{
-    margin-top: 1.5rem;
+    margin-top: 1rem;
     text-align: center;
     color: #999;
 }
