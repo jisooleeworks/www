@@ -57,19 +57,19 @@ a {
     }
 }
 
-.title, .content, .download, .footer{
+.title, .content, .linkto, .footer{
     width: 100%;
 }
 
-.download{
+.linkto{
     margin: 0.5rem 0;
     padding-left: 1rem;
     border-left: 0.5rem solid #602bbb;
 }
 
-.download p{
+.linkto p{
+    margin: 0;
     color: #602BBB;
-    text-decoration: underline;
 }
 
 .contact{
